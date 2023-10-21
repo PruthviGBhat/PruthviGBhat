@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Pruthvi Bhat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:pruthvigbhaveri@gmail.com</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
